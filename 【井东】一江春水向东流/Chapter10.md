@@ -203,3 +203,5 @@
 井然不吭声，任由他咬。等他咬够了放开，还舔了舔。
 
 他撑起来，看着井然那双害人的眼睛，嗤笑一声， “杀人犯法。”
+
+[【下一章】](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter11.md)
