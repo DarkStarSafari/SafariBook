@@ -303,3 +303,5 @@ Marco唱《改变自己》唱上了头，拉着包厢里的好几个人都来了
  
 
 一场眼泪，是夏天突如其来的雨，猝不及防，淋透了井然。
+
+[下一章](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/Chapter05.md)
