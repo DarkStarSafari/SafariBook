@@ -327,3 +327,6 @@
 在各种警报声碎裂声交错杂乱的混沌里，井然没有任何其他的言语，只有很微弱的一点声音。
 
 他回应他在睡梦中的呼喊：“东东。”
+
+
+[【下一章】](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter20.md)
