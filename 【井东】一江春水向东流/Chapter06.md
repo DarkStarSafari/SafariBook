@@ -263,4 +263,4 @@
 他踏出厨房：“好，不收你利息。”
 
 
-[【下一章】](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter06.md)
+[【下一章】](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter07.md)
