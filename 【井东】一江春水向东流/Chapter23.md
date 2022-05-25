@@ -360,7 +360,7 @@
 
 等到醒来，一切再重新开始。
 
-（完）
+【完结】
 
 Notes:
 终于完结了qwq写这篇很大程度上是为了满足我的个人癖好但却因为这样那样的原因拖了非常久，中间的走向也因为我脑了又忘改了很多次，感谢一年多来的所有读者朋友，鞠躬。
@@ -368,3 +368,9 @@ Notes:
 文里出现多次的汤姆·等待是位歌手，有一首我很喜欢的歌I Hope That I Don't Fall In Love With You，也是选择把他放在这里的原因。
 
 提前给大家拜个早年！
+
+
+[【番外1：仪式】](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/%E7%95%AA%E5%A4%961%EF%BC%9A%E4%BB%AA%E5%BC%8F)
+
+[【短篇三则】](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/%E7%9F%AD%E7%AF%87%E4%B8%89%E5%88%99.md)
+
