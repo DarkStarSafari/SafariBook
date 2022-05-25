@@ -33,3 +33,4 @@
   - [一江春水向东流](https://github.com/DarkStarSafari/SafariBook/tree/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81)
 - #朱白# 
   - 朱助理和白歌手
+(https://github.com/DarkStarSafari/SafariBook/tree/main/%E3%80%90%E6%9C%B1%E7%99%BD%E3%80%91%E6%9C%B1%E5%8A%A9%E7%90%86%E5%92%8C%E7%99%BD%E6%AD%8C%E6%89%8B)
