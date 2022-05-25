@@ -9,51 +9,51 @@
 
 **Table**
 ------
-[Chpater01](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter01](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater02](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter02](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater03](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter03](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater04](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter04](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater05](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter05](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater06](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter06](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater07](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter07](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater08](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter08](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater09](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter09](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater10](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter10](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater11](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter11](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater12](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter12](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater13](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter13](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater14](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter14](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater15](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter15](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater16](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter16](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater17](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter17](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater18](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter18](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater19](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter19](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater20](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter20](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater21](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter21](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater22](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter22](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
-[Chpater23](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
+[Chapter23](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/Chapter01.md)
 
 [番外1：仪式](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E4%B8%80%E6%B1%9F%E6%98%A5%E6%B0%B4%E5%90%91%E4%B8%9C%E6%B5%81/%E7%95%AA%E5%A4%961%EF%BC%9A%E4%BB%AA%E5%BC%8F)
 
