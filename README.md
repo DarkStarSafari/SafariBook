@@ -12,7 +12,7 @@ wb: Pyrus_nivalis
 
 ### 长篇连载中
 - #生远# 
-  - 天真逃亡
+  - [天真逃亡](https://github.com/DarkStarSafari/SafariBook/tree/main/%E3%80%90%E7%94%9F%E8%BF%9C%E3%80%91%E5%A4%A9%E7%9C%9F%E9%80%83%E4%BA%A1%EF%BC%88%E8%BF%9E%E8%BD%BD%E4%B8%AD%EF%BC%89)
 
 ### 短篇
 - #巍澜# 
