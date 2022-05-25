@@ -54,7 +54,6 @@
 
 [Chapter22](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/Chapter22.md)
 
-[Chapter23](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/Chapter23.md)
 
 [番外1](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/%E7%95%AA%E5%A4%961.md)
 
