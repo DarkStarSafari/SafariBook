@@ -175,3 +175,6 @@
 井然俯下身，轻轻地吻尤东东的内眼角，吻得尤东东忍不住眨眼，两个脆弱的部位贴在一起，又痒又暖。
 
 他想，也许是真的，真的很早。
+
+
+[下一章](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/Chapter14.md)
