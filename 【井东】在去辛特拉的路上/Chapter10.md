@@ -319,3 +319,6 @@
  
 
 完了，他想，我该不会真的是个想谈恋爱的傻子吧。
+
+
+[下一章](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/Chapter11.md)
