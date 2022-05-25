@@ -127,3 +127,5 @@
 不动产笑着注视他，长长的睫毛扇动两下，卷起尤东东生命里的新一轮风暴。
 
 他定了定神，深呼吸一口，右手握住盖文伸出的手：“合作愉快。”
+
+[下一章](https://github.com/DarkStarSafari/SafariBook/blob/main/%E3%80%90%E4%BA%95%E4%B8%9C%E3%80%91%E5%9C%A8%E5%8E%BB%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%84%E8%B7%AF%E4%B8%8A/Chapter21.md)
