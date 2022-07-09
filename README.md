@@ -28,6 +28,7 @@
 - #朱白# 
   - [敬人生大事](https://github.com/DarkStarSafari/SafariBook/blob/main/%E7%9F%AD%E7%AF%87%E5%90%88%E9%9B%86/%E3%80%90%E6%9C%B1%E7%99%BD%E3%80%91%E6%95%AC%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B.md)
   - [杀青](https://github.com/DarkStarSafari/SafariBook/blob/main/%E7%9F%AD%E7%AF%87%E5%90%88%E9%9B%86/%E3%80%90%E6%9C%B1%E7%99%BD%E3%80%91%E6%9D%80%E9%9D%92.md)
+  - [我要到对岸去](https://github.com/DarkStarSafari/SafariBook/blob/main/%E7%9F%AD%E7%AF%87%E5%90%88%E9%9B%86/%E3%80%90%E6%9C%B1%E7%99%BD%E3%80%91%E6%88%91%E8%A6%81%E5%88%B0%E5%AF%B9%E5%B2%B8%E5%8E%BB.md)
 
 ### 长篇已完结
 - #井东# 
